@@ -1,0 +1,26 @@
+Extensión
+
+ - One Dark Pro
+
+ - indenticator
+
+ ctrl + , para abrir la configuración
+
+
+
+ {
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "window.zoomLevel": 0.8,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.formatOnSave": true,
+    "editor.guides.indentation": false,
+    "indenticator.width": 0.01,
+    "indenticator.color.dark": "rgba(255,255,255,0.1,)",
+    "editor.glyphMargin": false,
+    "workbench.statusBar.visible": false
+}
